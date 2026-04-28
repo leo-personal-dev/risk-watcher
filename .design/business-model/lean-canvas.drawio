@@ -1,0 +1,109 @@
+<mxfile host="65bd71144e">
+    <diagram id="6wO1-yLQuO0ZmG2lMRBX" name="Page-1">
+        <mxGraphModel dx="1683" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Problem" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="127" y="205" width="280" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Existing alternative" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="127" y="485" width="280" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Cost structure" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="127" y="765" width="700" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Solution" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="407" y="205" width="280" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Key metric" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="407" y="485" width="280" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Unique value proposition" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="687" y="205" width="280" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="High level concept" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="687" y="485" width="280" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Unfair advantage" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="967" y="205" width="280" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Channel" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="967" y="485" width="280" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Customer segment" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="1247" y="205" width="280" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Early adopter" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="1247" y="485" width="280" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Revenue stream" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="827" y="765" width="700" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Credit Risk Department in banks" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1277" y="325" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="[Customer]&lt;div&gt;Credit Risk Director&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1247" y="265" width="121" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="[User]&lt;div&gt;Credit Risk Specialist&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1387" y="275" width="121" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="[User]&lt;div&gt;Customer facing product&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1260" y="380" width="121" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Risk Watcher API" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1022" y="535" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Risk Watcher WebSite" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1022" y="615" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Risk Watcher - A reliable and flexible product to manage credit risk rules" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;" parent="1" vertex="1">
+                    <mxGeometry x="127" y="130" width="933" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="BTG Pactual Credit Risk Department" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1302" y="535" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Response time less than 500ms" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="462" y="535" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Zero engineering effort to manage classification rules" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="462" y="615" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="FICO Score" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="182" y="535" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Classify customers in risk clusters" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="182" y="255" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Calculate personalized credit limits" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="182" y="325" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Estimate monthly incomes" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="182" y="395" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Data-driven credit risk classification engine" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="462" y="255" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Reliable and flexible product to manage credit risk rules" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="742" y="255" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Credit limit calculation service" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="880" y="820" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="AWS infrastructure" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="170" y="820" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Service operational team" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="370" y="820" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Access to BTG data" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1022" y="255" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Cloud computing solution like an SaaS application" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="742" y="535" width="170" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
